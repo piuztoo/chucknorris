@@ -1,0 +1,10 @@
+C:\Users\programmer\Desktop\chacknorris\chacknorris\bin\chacknorris.dll
+C:\Users\programmer\Desktop\chacknorris\chacknorris\bin\chacknorris.pdb
+C:\Users\programmer\Desktop\chacknorris\chacknorris\bin\chacknorris.xml
+C:\Users\programmer\Desktop\chacknorris\chacknorris\obj\Debug\chacknorris.Resources.resources
+C:\Users\programmer\Desktop\chacknorris\chacknorris\obj\Debug\chacknorris.vbproj.GenerateResource.Cache
+C:\Users\programmer\Desktop\chacknorris\chacknorris\obj\Debug\chacknorris.dll
+C:\Users\programmer\Desktop\chacknorris\chacknorris\obj\Debug\chacknorris.xml
+C:\Users\programmer\Desktop\chacknorris\chacknorris\obj\Debug\chacknorris.pdb
+C:\Users\programmer\Desktop\chacknorris\chacknorris\bin\Newtonsoft.Json.dll
+C:\Users\programmer\Desktop\chacknorris\chacknorris\obj\Debug\chacknorris.vbprojResolveAssemblyReference.cache
