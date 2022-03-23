@@ -100,7 +100,7 @@
         <br />
         <br />
         <br />
-        developed by pius kipchilchil<br />
+        developed by pius kipchirchir<br />
        
     
     </div>
